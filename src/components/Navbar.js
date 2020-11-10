@@ -35,9 +35,9 @@ export default class Navbar extends Component {
                             <Link to="/rooms">Rooms</Link>
                         </li>
                     </ul>
-                    <Link to="/">
+                    <a href="https://babacarly.netlify.app" target="_blank">
                         <img style={{ width: "40px", height: "90%", marginLeft: "600px" }} id="chosen" src={chosen} alt="Babacar Ly" />
-                    </Link>
+                    </a>
                 </div>
             </nav>
         )
