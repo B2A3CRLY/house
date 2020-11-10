@@ -29,6 +29,9 @@ h1 {
   line-height: 1;
   margin-bottom: 0.5em;
 }
+h5{
+  font-size: medium;
+}
 h2 {
   font-size: 2em;
   margin-bottom: 0.75em;
